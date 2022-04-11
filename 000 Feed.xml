@@ -2,14 +2,14 @@
 <rss version="2.0"    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/"> 
     <channel>
         <!-- Het algemene deel van de feed. Mij niet bewerken!!!-->
-        <title>Antonius Deusing 25jaar. De podcast</title>
+        <title>Antonius Deusing 25 jaar. De podcast</title>
         <itunes:owner>
-            <itunes:name>Alumni Vereniging Antonius Deusing</itunes:name>
+            <itunes:name>Alumnivereniging Antonius Deusing</itunes:name>
             <itunes:email>alumni@med.umcg.nl</itunes:email>
         </itunes:owner>
-        <itunes:author>Alumni Vereniging Antonius Deusing</itunes:author>
+        <itunes:author>Medische alumnivereniging Antonius Deusing</itunes:author>
         <link>https://www.antoniusdeusing.nl/</link>
-        <description>In 2022 bestaat alumni vereniging antonius deusing 25 jaar. Het gehele jaar zal dit gevierd worden. Onderdeel hiervan is een podcast serie. Inspirerende artsen spreken met elkaar over de ontwikkeling van de geneeskunde in en rond Groningen.</description>
+        <description>In 2022 bestaat alumnivereniging antonius deusing 25 jaar. Het gehele jaar zal dit gevierd worden. Onderdeel hiervan is een podcast serie. Inspirerende artsen spreken met elkaar over de ontwikkeling van de geneeskunde in en rond Groningen.</description>
         <itunes:image href="https://congressus-antoniusdeusing.s3-eu-west-1.amazonaws.com/template/106/logo-antoniusdeusing-sm.png"/>
         <language>nl-nl</language>
         <itunes:category text="Health &amp; Fitness">
@@ -35,7 +35,7 @@
         <!-- Episode 1 -->
         <item>
             <title>Ontstaan transplantatie geneeskunde</title>
-            <description>Prof. dr. Gauke Kootstra ( alumnus 1965) en prof. dr. Maarten Slooff (alumnus 1971) gaan met elkaar in gesprek over de ontwikkeling van de transplantatiegeneeskunde in Nederland. Zij waren in Nederland betrokken bij de een van de allereerste transplantaties. Zij blikken meer dan 50 jaar terug naar de eerste transplantatie. Zij kijken ook vooruit naar de toekomst.</description>
+            <description>In deze podcast bespreken prof. dr Gauke Kootstra en prof. dr. Maarten Slooff de ontwikkeling van de transplantatiegeneeskunde in Nederland. Zij stonden aan de wieg hiervan en vertellen verhalen over de moeilijkheden en problemen en hoe die soms op onorthodoxe wijze werden opgelost. Wat maakte dat Groningen koploper werd bij de levertransplantaties? Wat waren de succesfactoren en wat ging er mis? Welke namen moeten beslist genoemd worden?Wat is de huidige stand van zaken en hoe zien zij de toekomst? Luister naar deze twee inspirerende Groningers!</description>
             <pubDate>Thu, 12 Apr 2022 14:00:00 CEST</pubDate>
             <enclosure url="https://www.antoniusdeusing.nl/_media/1706173/0b899d2af75344cf92259b49aeb9ff74/view" type="audio/mpeg" length="94378931" />
             <itunes:duration>39:19</itunes:duration>
