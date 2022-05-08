@@ -42,14 +42,16 @@
             <guid isPermaLink="false">AD25EP001TRANS</guid>
         </item>
         
-        <!-- Episode 2 
+        <!-- Episode 2 -->
         <item>
             <title>Onderwijsvernieuwing in de geneeskunde</title>
-            <description>LANGERE BESCHRIJVING</description>
-            <pubDate>DDD, dd MMM yyyy hh:mm:ss GMT</pubDate>
+            <description>De geneeskunde studie staat niet stil. Met enige regelmaat veranderd de manier van onderwijs. In deze podcast bespreken prof.dr. Dick Bogchelman en prof.dr. Rein Zwierstra de ontwikkelingen van de laatste jaren. Sommige werden hard bevochten. Hoe krijg je mensen mee en met welk doel zet je veranderingen in?</description>
+            <pubDate>Mon, 09 May 2022 14:00:00 GMT</pubDate>
             <enclosure url="https://www.antoniusdeusing.nl/_media/1724190/c4ef40dbf97f4152ba1392bd69393b0c/view" type="audio/mpeg" length="93015478" />
             <itunes:duration>38:45</itunes:duration>
             <guid isPermaLink="false">AD25EP002ONDER</guid>
-        </item>-->
+        </item>
+        
+        <!-- Episode 3 -->
     </channel>
 </rss>
