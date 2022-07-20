@@ -53,5 +53,15 @@
         </item>
         
         <!-- Episode 3 -->
+        <item>
+            <title>Bouw van het UMCG</title>
+            <description>In deze derde podcast gaan dr. Frans Hiddema (alumnus 1975) in gesprek met Jan Hamel (alumnus 1971, studie medische sociologie) over de bouw van het UMCG.</description>
+            <pubDate>Wed, 20 Jul 2022 14:00:00 GMT</pubDate>
+            <enclosure url="https://www.antoniusdeusing.nl/_media/1857811/4db1397a1f2347d9ae7c016345042723/view" type="audio/mpeg" length="86478127" />
+            <itunes:duration>36:01</itunes:duration>
+            <guid isPermaLink="false">AD25EP003BOUWU</guid>
+        </item>
+        
+        <!-- Episode 4 -->
     </channel>
 </rss>
