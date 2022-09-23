@@ -9,7 +9,9 @@
         </itunes:owner>
         <itunes:author>Medische alumnivereniging Antonius Deusing</itunes:author>
         <link>https://www.antoniusdeusing.nl/</link>
-        <description>In 2022 bestaat alumnivereniging antonius deusing 25 jaar. Het gehele jaar zal dit gevierd worden. Onderdeel hiervan is een podcast serie. Inspirerende artsen spreken met elkaar over de ontwikkeling van de geneeskunde in en rond Groningen.</description>
+        <description>In 2022 bestaat alumnivereniging antonius deusing 25 jaar. Het gehele jaar zal dit gevierd worden. Onderdeel hiervan is een podcast serie. Inspirerende artsen spreken met elkaar over de ontwikkeling van de geneeskunde in en rond Groningen.
+        <![CDATA[Als u geneneeskunde gestudeerd heeft in Groningen kunt u ook lid worden van de vereniging. <a href="https://www.antoniusdeusing.nl/">Meer informatie</a>
+]]></description>
         <itunes:image href="https://congressus-antoniusdeusing.s3-eu-west-1.amazonaws.com/template/106/logo-antoniusdeusing-sm.png"/>
         <language>nl-nl</language>
         <itunes:category text="Health &amp; Fitness">
@@ -66,7 +68,7 @@
         <item>
             <title>Feminisering in de zorg</title>
             <description>In deze vierde podcast gaan prof. dr. Betty Meyboom, emeritus hoogleraar huisartsgeneeskunde en Marian Mourits hoogleraar gynaecologie-oncologie in gesprek met elkaar over de feminisering van de geneeskunde, zijn we inderdaad op weg naar meer diversiteit? Luistert u de podcast via Spotify 'Antonius Deusing, 25 jaar. De Podcast'</description>
-            <pubDate>DDD, dd MMM yyyy hh:mm:ss GMT</pubDate>
+            <pubDate>Fri, 23 Sep 2022 20:00:00 GMT</pubDate>
             <enclosure url="https://www.antoniusdeusing.nl/_media/1924500/9239a00dfec14dd59a3d471c50cf9737/view" type="audio/mpeg" length="29355200" />
             <itunes:duration>39:27</itunes:duration>
             <guid isPermaLink="false">UNIEKE CODE</guid>
