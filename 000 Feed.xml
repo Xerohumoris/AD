@@ -63,5 +63,13 @@
         </item>
         
         <!-- Episode 4 -->
+        <item>
+            <title>Feminisering in de zorg</title>
+            <description>In deze vierde podcast gaan prof. dr. Betty Meyboom, emeritus hoogleraar huisartsgeneeskunde en Marian Mourits hoogleraar gynaecologie-oncologie in gesprek met elkaar over de feminisering van de geneeskunde, zijn we inderdaad op weg naar meer diversiteit? Luistert u de podcast via Spotify 'Antonius Deusing, 25 jaar. De Podcast'</description>
+            <pubDate>DDD, dd MMM yyyy hh:mm:ss GMT</pubDate>
+            <enclosure url="https://www.antoniusdeusing.nl/_media/1924500/9239a00dfec14dd59a3d471c50cf9737/view" type="audio/mpeg" length="29355200" />
+            <itunes:duration>39:27</itunes:duration>
+            <guid isPermaLink="false">UNIEKE CODE</guid>
+        </item>
     </channel>
 </rss>
